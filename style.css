@@ -1,6 +1,6 @@
-#header h1 {
-	font-style: normal;
-	font-family: alfa-slab-one;
-	font-weight: 400;
-
+#header img {
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+	
 }
